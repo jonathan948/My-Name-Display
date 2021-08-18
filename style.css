@@ -1,0 +1,27 @@
+
+.cta{
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    text-transform: uppercase;
+    padding: 10px;
+    border: none;
+    transition: all 0.5s;
+    margin: 0 auto;
+    display: block;
+    margin-top: 30%;
+}
+
+.cta:hover{
+    background-color: lightgray;
+    color: blue;
+    border-radius: 20px;
+    text-transform: uppercase;
+    padding: 10px;
+    transition: all 0.5s;
+}
+
+.name{
+    font-weight: bold;
+    text-align: center;
+}
